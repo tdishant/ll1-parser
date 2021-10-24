@@ -1,0 +1,3 @@
+S -> iEtSX | a
+X -> eS | ε
+E -> b

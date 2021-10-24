@@ -1,0 +1,5 @@
+S -> ABa | bCA
+A -> cBCD | ε
+B -> CdA | ad
+C -> eC | ε
+D -> bsf | a
